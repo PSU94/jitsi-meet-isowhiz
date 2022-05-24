@@ -1,0 +1,84 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98144902882b713248a71c322fd5b2f4ee"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98d41ce0bf2141365ff0288286787936d9"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e989da425bb6d6d5d8dbb95e4afffb82217"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e988aa39deb40f3972946f2d929d0b6130c"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98030507ac7fb8e7d67f4284cb158a0d31"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98b6a3fbfdb2ddab2ad6e78ffe05039617"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98e02517e5bda7c94bdde2530f5414c13a"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98cf967cac1404da9136421b5727731b8d"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98e6c097e1cc5fcea9e2772db768a546c0"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e986f0e8be830d0d3c28782ddeefee89819"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98312b4bc59bbbe2c06c205bf4da6737f5"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98a09f89f66b716da1ab2ec5e473d4f730"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e988a0a5b40b007f81bee1472e4d0fb23da"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98144902882b713248a71c322fd5b2f4ee"
+    }
+  ],
+  "containerPath" : "/Users/isowhizapple/StudioProjects/polytok-flutter/ios/Pods/Pods.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "configurationName" : "Debug",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+          "BUILD_LIBRARY_FOR_DISTRIBUTION" : "YES",
+          "ENABLE_BITCODE" : "YES",
+          "ONLY_ACTIVE_ARCH" : "NO",
+          "SDKROOT" : "iphonesimulator15.4",
+          "SYMROOT" : "/Users/isowhizapple/StudioProjects/jitsi/jitsi-meet_react/ios/sdk/out/Debug/iphonesimulator"
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "ACTION" : "build",
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : false,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : false
+}

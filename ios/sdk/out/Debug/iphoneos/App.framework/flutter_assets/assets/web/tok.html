@@ -1,0 +1,33 @@
+<html>
+<body>
+<script src="https://custommeet3.centralus.cloudapp.azure.com/external_api.js" type="application/javascript"></script>
+<script>
+  var domain = "custommeet3.centralus.cloudapp.azure.com";
+  var options = {
+    roomName: "JitsiMeetAPIExample1221121212",
+    width: 700,
+    height: 500,
+    parentNode: undefined,
+    configOverwrite: {
+      disableDeepLinking: true
+    }
+  }
+  var api = new JitsiMeetExternalAPI(domain, options);
+</script>
+<!--<script type="text/javascript">
+    function loadTok() {
+        var domain = "custommeet3.centralus.cloudapp.azure.com";
+        var options = {
+            roomName: tokRoomName,
+            width: 700,
+            height: 500,
+            parentNode: undefined,
+            configOverwrite: {
+                disableDeepLinking: true
+            }
+        }
+        var api = new JitsiMeetExternalAPI(domain, options);
+    }
+</script>-->
+</body>
+</html>

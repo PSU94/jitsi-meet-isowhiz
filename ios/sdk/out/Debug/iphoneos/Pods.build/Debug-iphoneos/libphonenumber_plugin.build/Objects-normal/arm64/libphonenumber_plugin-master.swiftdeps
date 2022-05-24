@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)"
+options: "0d2666eb06a58fed830133197c5eea05be1ff16199c2e476869ee766be76dc87"
+build_start_time: [1652874919, 86100101]
+build_end_time: [1652874920, 851797103]
+inputs:
+  ? "/Users/isowhizapple/Development/flutter/.pub-cache/hosted/pub.dartlang.org/libphonenumber_plugin-0.2.3/ios/Classes/SwiftLibphonenumberPlugin.swift"
+  : [1650536768, 935569286]

@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)"
+options: "775c87c44c94b8f58e3038526934c52900c8ac541d3233fae04f2592c14c2875"
+build_start_time: [1652874911, 781826019]
+build_end_time: [1652874916, 686583995]
+inputs:
+  "/Users/isowhizapple/StudioProjects/polytok-flutter/packages/jitsi_meet/ios/Classes/JitsiViewController.swift": [1652786204, 749628543]
+  "/Users/isowhizapple/StudioProjects/polytok-flutter/packages/jitsi_meet/ios/Classes/SwiftJitsiMeetPlugin.swift": [1652786211, 851125240]

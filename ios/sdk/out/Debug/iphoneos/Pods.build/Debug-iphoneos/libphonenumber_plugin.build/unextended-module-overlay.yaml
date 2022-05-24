@@ -1,0 +1,14 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/isowhizapple/StudioProjects/jitsi/jitsi-meet_react/ios/sdk/out/Debug/iphoneos/Debug-iphoneos/libphonenumber_plugin/libphonenumber_plugin.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/isowhizapple/StudioProjects/jitsi/jitsi-meet_react/ios/sdk/out/Debug/iphoneos/Pods.build/Debug-iphoneos/libphonenumber_plugin.build/unextended-module.modulemap",
+    }]
+  }]
+}

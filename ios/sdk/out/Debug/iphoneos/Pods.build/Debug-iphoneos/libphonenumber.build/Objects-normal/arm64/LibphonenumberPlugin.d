@@ -1,0 +1,35 @@
+dependencies: \
+  /Users/isowhizapple/Development/flutter/.pub-cache/hosted/pub.dartlang.org/libphonenumber-2.0.2/ios/Classes/LibphonenumberPlugin.m \
+  /Users/isowhizapple/StudioProjects/jitsi/jitsi-meet_react/ios/sdk/out/Debug/iphoneos/Pods.build/Debug-iphoneos/libphonenumber.build/module.modulemap \
+  /Users/isowhizapple/StudioProjects/polytok-flutter/ios/Pods/Target\ Support\ Files/libphonenumber/libphonenumber-prefix.pch \
+  /Users/isowhizapple/Development/flutter/.pub-cache/hosted/pub.dartlang.org/libphonenumber-2.0.2/ios/Classes/LibphonenumberPlugin.h \
+  /Users/isowhizapple/Development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Modules/module.modulemap \
+  /Users/isowhizapple/Development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/FlutterViewController.h \
+  /Users/isowhizapple/Development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/isowhizapple/Development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/isowhizapple/Development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/FlutterEngineGroup.h \
+  /Users/isowhizapple/Development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/isowhizapple/Development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/isowhizapple/Development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/isowhizapple/Development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/isowhizapple/Development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/isowhizapple/Development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/isowhizapple/Development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/isowhizapple/Development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/isowhizapple/Development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/isowhizapple/Development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/isowhizapple/Development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/isowhizapple/Development/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_armv7/Flutter.framework/Headers/Flutter.h \
+  /Users/isowhizapple/StudioProjects/jitsi/jitsi-meet_react/ios/sdk/out/Debug/iphoneos/Pods.build/Debug-iphoneos/libPhoneNumber-iOS.build/module.modulemap \
+  /Users/isowhizapple/StudioProjects/polytok-flutter/ios/Pods/libPhoneNumber-iOS/libPhoneNumber/Internal/NBRegularExpressionCache.h \
+  /Users/isowhizapple/StudioProjects/polytok-flutter/ios/Pods/libPhoneNumber-iOS/libPhoneNumber/Internal/NBRegExMatcher.h \
+  /Users/isowhizapple/StudioProjects/polytok-flutter/ios/Pods/libPhoneNumber-iOS/libPhoneNumber/NSArray+NBAdditions.h \
+  /Users/isowhizapple/StudioProjects/polytok-flutter/ios/Pods/libPhoneNumber-iOS/libPhoneNumber/NBAsYouTypeFormatter.h \
+  /Users/isowhizapple/StudioProjects/polytok-flutter/ios/Pods/libPhoneNumber-iOS/libPhoneNumber/NBMetadataHelper.h \
+  /Users/isowhizapple/StudioProjects/polytok-flutter/ios/Pods/libPhoneNumber-iOS/libPhoneNumber/NBPhoneNumberUtil.h \
+  /Users/isowhizapple/StudioProjects/polytok-flutter/ios/Pods/libPhoneNumber-iOS/libPhoneNumber/NBPhoneMetaData.h \
+  /Users/isowhizapple/StudioProjects/polytok-flutter/ios/Pods/libPhoneNumber-iOS/libPhoneNumber/NBPhoneNumberDesc.h \
+  /Users/isowhizapple/StudioProjects/polytok-flutter/ios/Pods/libPhoneNumber-iOS/libPhoneNumber/NBNumberFormat.h \
+  /Users/isowhizapple/StudioProjects/polytok-flutter/ios/Pods/libPhoneNumber-iOS/libPhoneNumber/NBPhoneNumber.h \
+  /Users/isowhizapple/StudioProjects/polytok-flutter/ios/Pods/libPhoneNumber-iOS/libPhoneNumber/NBPhoneNumberDefines.h \
+  /Users/isowhizapple/StudioProjects/polytok-flutter/ios/Pods/Target\ Support\ Files/libPhoneNumber-iOS/libPhoneNumber-iOS-umbrella.h

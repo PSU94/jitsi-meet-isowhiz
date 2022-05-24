@@ -1,0 +1,14 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/isowhizapple/StudioProjects/jitsi/jitsi-meet_react/ios/sdk/out/Debug/iphoneos/Debug-iphoneos/jitsi_meet/jitsi_meet.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/isowhizapple/StudioProjects/jitsi/jitsi-meet_react/ios/sdk/out/Debug/iphoneos/Pods.build/Debug-iphoneos/jitsi_meet.build/unextended-module.modulemap",
+    }]
+  }]
+}

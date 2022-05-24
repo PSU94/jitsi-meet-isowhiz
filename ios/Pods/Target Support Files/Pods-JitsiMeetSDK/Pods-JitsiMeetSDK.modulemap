@@ -1,0 +1,6 @@
+module Pods_JitsiMeetSDK {
+  umbrella header "Pods-JitsiMeetSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}

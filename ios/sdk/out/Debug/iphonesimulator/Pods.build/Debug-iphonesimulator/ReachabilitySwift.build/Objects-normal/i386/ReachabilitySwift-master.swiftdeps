@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)"
+options: "75043dcaa7a6d7e9cbc2ed66d5b2aed135a663defc386211af7ef052d582a650"
+build_start_time: [1652874923, 546028137]
+build_end_time: [1652874925, 360722064]
+inputs:
+  "/Users/isowhizapple/StudioProjects/polytok-flutter/ios/Pods/ReachabilitySwift/Sources/Reachability.swift": [1652784835, 284111976]
